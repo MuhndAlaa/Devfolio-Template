@@ -1,0 +1,54 @@
+@keyframes typing
+{
+    0%{content: "";}
+    2%{content: "C";}
+    4%{content: "CE";}
+    6%{content: "CEO";}
+    8%{content: "CEO D";}
+    10%{content: "CEO De";}
+    12%{content: "CEO Dev";}
+    14%{content: "CEO DevF";}
+    16%{content: "CEO DevFo";}
+    18%{content: "CEO DevFol";}
+    20%{content: "CEO DevFoli";}
+    22%{content: "CEO DevFolio";}
+    24%{content: "CEO DevFoli";}
+    26%{content: "CEO DevFol";}
+    28%{content: "CEO DevFo";}
+    30%{content: "CEO DevF";}
+    32%{content: "CEO Dev";}
+    34%{content: "CEO De";}
+    36%{content: "CEO D";}
+    38%{content: "CEO";}
+    40%{content: "CE";}
+    42%{content: "C";}
+    44%{content: "";}
+    46%{content: "";}
+    48%{content: "W";}
+    50%{content: "We";}
+    52%{content: "Web";}
+    54%{content: "Web D";}
+    56%{content: "Web Des";}
+    58%{content: "Web Desi";}
+    60%{content: "Web Desig";}
+    62%{content: "Web Design";}
+    64%{content: "Web Designe";}
+    66%{content: "Web Designer";}
+    68%{content: "Web Designe";}
+    70%{content: "Web Design";}
+    72%{content: "Web Desig";}
+    74%{content: "Web Desi";}
+    76%{content: "Web Des";}
+    78%{content: "Web De";}
+    80%{content: "Web Dev";}
+    82%{content: "Web Devlo";}
+    84%{content: "Web Develope";}
+    86%{content: "Web Developer";}
+    88%{content: "Web Develop";}
+    90%{content: "Web Devel";}
+    92%{content: "Web Dev";}
+    94%{content: "Web D";}
+    96%{content: "Web";}
+    98%{content: "We";}
+    100%{content: "";}
+}
